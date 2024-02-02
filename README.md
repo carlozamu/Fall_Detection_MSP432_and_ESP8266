@@ -37,6 +37,7 @@ To use this project, you will need the following hardware:
 <p float="left">
   <img src="msp432p401r.png" alt="msp432p401r" width="140" height="225">
   <img src="boosterpack.png" alt="boosterpack" width="450" height="225">
+  <img src="esp8266.png" alt="boosterpack" width="450" height="225">
 </p>
 
 <br> <br>
