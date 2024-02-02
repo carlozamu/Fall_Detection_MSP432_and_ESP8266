@@ -51,5 +51,5 @@ To use this project, you will need the following hardware:
 * After making sure the pins are well connected, connect the MSP to a power source
 * Check that the display lights up white and the esp8266 has produced a blue LED to confirm power on. If all this is verified, then the connection was successful
 
-
+## Functionalities explanation
 
