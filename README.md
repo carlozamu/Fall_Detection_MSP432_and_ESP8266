@@ -34,9 +34,9 @@ To use this project, you will need the following hardware:
 * [Educational BoosterPack MKII](https://www.ti.com/tool/BOOSTXL-EDUMKII)
 * ESP8266 12E [esp8266_nonos_sdk_v1.5.3_16_04_18_0]
   
-<p float="left">
-  <img src="msp432p401r.png" alt="msp432p401r" width="140" height="225">
-  <img src="boosterpack.png" alt="boosterpack" width="450" height="225">
+<p float="left" align="center">
+  <img src="msp432p401r.png" alt="msp432p401r" width="120" height="205">
+  <img src="boosterpack.png" alt="boosterpack" width="430" height="205">
   <img src="esp8266png.png" alt="esp8266" width="225" height="225">
 </p>
 
