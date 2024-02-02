@@ -76,5 +76,14 @@ A significant future enhancement will involve introducing a dedicated platform f
 
 These future enhancements are aimed at making our fall detection system not only more responsive and reliable but also better integrated with existing emergency services, ensuring faster and more targeted responses in emergency situations.
 
+## Video and Presentation
 
+- Youtube [video](qui metti il link)
+- Presentation [slides](qui metti il link)
+The contributions to the project were as follows:
+
+## Team members 
+- Carlo Zamuner and Edoardo Castagnini both played a pivotal role in the software development aspect, bringing technical expertise and significant innovations to the underlying code.
+- Gianluigi Vazzoler had a multidisciplinary impact, leading the hardware design of the project, implementing the Telegram interface, and providing essential support in code development, showcasing his versatility and technical proficiency.
+- Valeria Mayora was responsible for creating PowerPoint slides, significantly contributing to the project's communication and dissemination of results and objectives through effective and professional visual materials.
 
