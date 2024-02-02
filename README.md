@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/carlozamu/Fall_Detection_MSP432_and_ESP8266r">
-    <img src="ambulance-logo.png" alt="Logo" width="140" height="140">
+    <img src="images/ambulance-logo.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">Fall Detection MSP432 and ESP8266</h3>
@@ -35,9 +35,9 @@ To use this project, you will need the following hardware:
 * ESP8266 12E [esp8266_nonos_sdk_v1.5.3_16_04_18_0]
   
 <p float="left" align="center">
-  <img src="msp432p401r.png" alt="msp432p401r" width="120" height="205">
-  <img src="boosterpack.png" alt="boosterpack" width="430" height="205">
-  <img src="esp8266png.png" alt="esp8266" width="225" height="225">
+  <img src="images/msp432p401r.png" alt="msp432p401r" width="120" height="205">
+  <img src="images/boosterpack.png" alt="boosterpack" width="430" height="205">
+  <img src="images/esp8266png.png" alt="esp8266" width="225" height="225">
 </p>
 
 <br> <br>
