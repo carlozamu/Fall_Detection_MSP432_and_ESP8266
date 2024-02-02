@@ -78,8 +78,8 @@ These future enhancements are aimed at making our fall detection system not only
 
 ## Video and Presentation
 
-- Youtube [video]([qui metti il link](https://www.youtube.com/watch?v=UZUbPtn01kk))
-- Presentation [slides]([qui metti il link](https://www.youtube.com/watch?v=UZUbPtn01kk))
+- Youtube [video](https://www.youtube.com/watch?v=hzegHrGtqXE)
+- Presentation [slides](https://www.youtube.com/watch?v=hzegHrGtqXE)
 The contributions to the project were as follows:
 
 # Team members 
