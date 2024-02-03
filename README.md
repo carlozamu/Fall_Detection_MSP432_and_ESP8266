@@ -45,9 +45,9 @@ To use this project, you will need the following hardware:
 ## Setting up the hardware
 * Connect MSP432 to BoosterPack
 * Connect Rx/Tx of MSP432 (pin 3.2 / 3.3) to esp Tx/Rx 
-* Make sure that the rx and tx pins are connected inversely
+* Make sure that the Rx and Tx pins are connected inversely
 * Connect GND in both parts
-* Coonect 3.3V of MSP432 to 3.3V pin in ESP8266
+* Connect 3.3V of MSP432 to 3.3V pin in ESP8266
 * After making sure the pins are well connected, connect the MSP to a power source
 * Check that the display lights up white and the esp8266 has produced a blue LED to confirm power on. If all this is verified, then the connection was successful
 
