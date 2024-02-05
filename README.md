@@ -83,6 +83,4 @@ These future enhancements are aimed at making our fall detection system not only
 The contributions to the project were as follows:
 
 # Team members 
-- <strong>Carlo Zamuner </strong> and<strong> Edoardo Castagnini</strong> both played a pivotal role in the software development aspect, bringing technical expertise and significant innovations to the underlying code.
-- <strong>Gianluigi Vazzoler</strong> had a multidisciplinary impact, leading the hardware design of the project, implementing the Telegram interface, and providing essential support in code development, showcasing his versatility and technical proficiency.
-- <strong>Valeria Mayora</strong> was responsible for the graphic creation of the project, contributing significantly to the communication of the project and the dissemination of the results and objectives through effective and professional visual materials.
+- <strong> Carlo Zamuner</strong>,<strong> Edoardo Castagnini</strong>, <strong>Gianluigi Vazzoler</strong>, <strong>Valeria Mayora</strong> : The work was carried out across the board by all members of the project, analyzing and expanding all the aspects of the project described above
