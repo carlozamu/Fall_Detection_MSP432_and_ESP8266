@@ -89,13 +89,12 @@ FallDetector/
 <!--=========================================================================-->
 
 ## Setting up the hardware
-* Connect MSP432 to BoosterPack
-* Connect Rx/Tx of MSP432 (pin 3.2 / 3.3) to esp Tx/Rx 
-* Make sure that the Rx and Tx pins are connected inversely
-* Connect GND in both parts
-* Connect 3.3V of MSP432 to 3.3V pin in ESP8266
-* After making sure the pins are well connected, connect the MSP to a power source
-* Check that the display lights up white and the esp8266 has produced a blue LED to confirm power on. If all this is verified, then the connection was successful
+1. Connect the MSP432 to the BoosterPack.
+2. Connect the Rx/Tx of the MSP432 (pin 3.2 / 3.3) to the ESP8266's Tx/Rx. Make sure that the Rx and Tx pins are connected inversely.
+3. Connect GND on both parts.
+4. Connect the 3.3V pin of the MSP432 to the 3.3V pin on the ESP8266.
+5. After ensuring all pins are well connected, connect the MSP432 to a power source.
+6. Check that the display lights up white and the ESP8266 has a blue LED lit to confirm power is on. If all these conditions are met, then the connection was successful.
 
 # Development of a Fall Detection System using the MSP432 Microcontroller
 This innovative system is designed to enhance user safety through timely fall detection, drawing inspiration from the advanced capabilities of devices like the Apple Watch. By utilizing the MSP432 microcontroller, our system provides a suite of key features:
