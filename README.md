@@ -42,6 +42,52 @@ To use this project, you will need the following hardware:
 
 <br> <br>
 
+## Project Layout
+
+```
+FallDetector/
+├── main.c                    # Main application source file
+├── Communications            # Communication module
+│   ├── delay.c               # Delay functions
+│   ├── delay.h
+│   ├── esp8266.c             # ESP8266 Wi-Fi module functions
+│   ├── esp8266.h
+│   ├── telegram.c            # Telegram API functions
+│   ├── telegram.h
+│   ├── uartController.c      # UART communication functions
+│   └── uartController.h
+├── Game                      # Game logic
+│   ├── game.c
+│   └── game.h
+├── Hardware                  # Hardware abstraction layer
+│   ├── acc.c                 # Accelerometer functions
+│   ├── acc.h
+│   ├── alarm.c               # Alarm functions
+│   ├── alarm.h
+│   ├── HwInit.c              # Hardware initialization
+│   └── HwInit.h
+│   └── Sounds                # Sounds for the buzzer
+│       ├── BuzzerSound.c
+│       └── BuzzerSound.h
+├── Images                    # Graphic assets and their definitions
+│   ├── contextGraphic.h
+│   ├── direction_graphics.c
+│   ├── direction_graphics.h
+│   ├── images.h
+│   ├── images_definitions.h
+│   └── Sample                # Sample images
+│       ├── ambulance.png
+│       ├── backward.png
+│       ├── correct+mark+success+tick+valid+.png
+│       ├── directions.png
+│       ├── foreward.png
+│       ├── left.png
+│       ├── right.png
+│       └── x.png
+```
+
+<!--=========================================================================-->
+
 ## Setting up the hardware
 * Connect MSP432 to BoosterPack
 * Connect Rx/Tx of MSP432 (pin 3.2 / 3.3) to esp Tx/Rx 
