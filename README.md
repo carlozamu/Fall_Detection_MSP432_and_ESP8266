@@ -32,7 +32,7 @@ To use this project, you will need the following hardware:
 
 * Texas Instruments MSP432P401R microcontroller
 * [Educational BoosterPack MKII](https://www.ti.com/tool/BOOSTXL-EDUMKII)
-* ESP8266 12E [esp8266_nonos_sdk_v1.5.3_16_04_18_0]
+* ESP8266 12E [used firmware: esp8266_nonos_sdk_v1.5.3_16_04_18_0]
   
 <p float="left" align="center">
   <img src="images/msp432p401r.png" alt="msp432p401r" width="120" height="205">
