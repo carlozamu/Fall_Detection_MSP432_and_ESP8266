@@ -112,9 +112,7 @@ The system allows users to cancel alarms through an interactive interface requir
 
 ## 4. Emergency Call Management via Telegram Bot
 If the user does not deactivate the alarm within a set timeframe, the system automatically sends an emergency message via a Telegram bot. This message communicates the situation to emergency services or pre-set contacts, ensuring an immediate and effective response to the emergency.
-
-
-
+<br><br>
 # Future Implementations
 Looking ahead, we aim to expand and enhance our system's capabilities further by introducing new features:
 
@@ -127,7 +125,8 @@ These future enhancements are aimed at making our fall detection system not only
 
 - Youtube [video]([https://www.youtube.com/watch?v=hzegHrGtqXE](https://youtu.be/lHRuercZcbo))
 - Presentation [slides]([https://www.youtube.com/watch?v=hzegHrGtqXE](https://docs.google.com/presentation/d/11FBGCgIohR_Q907LbEsJxZ_BNSmWm2RgmGfaZwzZ5zs/edit?usp=sharing))
-The contributions to the project were as follows:
+
 
 # Team members 
-- <strong> Carlo Zamuner</strong>,<strong> Edoardo Castagnini</strong>, <strong>Gianluigi Vazzoler</strong>, <strong>Valeria Mayora</strong> : The work was carried out across the board by all members of the project, analyzing and expanding all the aspects of the project described above
+- <strong> Carlo Zamuner</strong>,<strong> Edoardo Castagnini</strong>, <strong>Gianluigi Vazzoler</strong>, <strong>Valeria Mayora</strong>:<br>
+  the work was carried out across the board by all members of the project, analyzing and expanding all the aspects of the project described above
