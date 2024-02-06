@@ -87,6 +87,11 @@ FallDetector/
 ```
 
 <!--=========================================================================-->
+## Setting up the project
+1. Import the project in Code Composer Studio
+2. On the left side menu, right click on the project's name
+3. Properties > Build > Arm Compiler > Include Options. Add the paths for simplelink_MSP432P4_SDK_3_4_0_01_02/source, simplelink_MSP432P4_SDK_3_4_0_01_02/source/third_party/CMSIS/Include
+4. Properties > Arm Linker > File Search Path. Add the paths for simplelink_MSP432P4_SDK_3_4_0_01_02/source/third_party/CMSIS/DSP_Lib/lib/gcc/m4f/arm_cortexM4lf_math.a, simplelink_msp432p4_sdk_3_40_01_02/source/ti/devices/msp432p4xx/driverlib/ccs/msp432p4xx_driverlib.lib, simplelink_msp432p4_sdk_3_40_01_02/source/ti/grlib/lib/ccs/m4/grlib.a
 
 ## Setting up the hardware
 1. Connect the MSP432 to the BoosterPack.
