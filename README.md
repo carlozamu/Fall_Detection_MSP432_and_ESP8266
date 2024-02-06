@@ -113,6 +113,8 @@ The system allows users to cancel alarms through an interactive interface requir
 ## 4. Emergency Call Management via Telegram Bot
 If the user does not deactivate the alarm within a set timeframe, the system automatically sends an emergency message via a Telegram bot. This message communicates the situation to emergency services or pre-set contacts, ensuring an immediate and effective response to the emergency.
 
+
+
 # Future Implementations
 Looking ahead, we aim to expand and enhance our system's capabilities further by introducing new features:
 
