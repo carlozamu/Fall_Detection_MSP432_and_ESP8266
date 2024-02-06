@@ -124,7 +124,7 @@ These future enhancements are aimed at making our fall detection system not only
 ## Video and Presentation
 
 - Youtube [video](https://youtu.be/lHRuercZcbo)
-- Presentation [slides]([https://www.youtube.com/watch?v=hzegHrGtqXE](https://docs.google.com/presentation/d/11FBGCgIohR_Q907LbEsJxZ_BNSmWm2RgmGfaZwzZ5zs/edit?usp=sharing))
+- Presentation [slides](https://docs.google.com/presentation/d/11FBGCgIohR_Q907LbEsJxZ_BNSmWm2RgmGfaZwzZ5zs/edit?usp=sharing)
 
 
 # Team members 
