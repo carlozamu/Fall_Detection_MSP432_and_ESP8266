@@ -1,0 +1,39 @@
+#ifndef IMAGES_DEFINITIONS_H_
+#define IMAGES_DEFINITIONS_H_
+
+#include <ti/grlib/grlib.h>
+
+
+extern const Graphics_Image DIRECTIONS_1BPP_UNCOMP;
+
+extern const Graphics_Image UP_RED_1BPP_UNCOMP;
+extern const Graphics_Image UP_WHITE_1BPP_UNCOMP;
+extern const Graphics_Image DOWN_RED_1BPP_UNCOMP;
+extern const Graphics_Image DOWN_WHITE_1BPP_UNCOMP;
+
+extern const Graphics_Image LEFT_RED_1BPP_UNCOMP;
+extern const Graphics_Image LEFT_WHITE_1BPP_UNCOMP;
+extern const Graphics_Image RIGHT_RED_1BPP_UNCOMP;
+extern const Graphics_Image RIGHT_WHITE_1BPP_UNCOMP;
+
+
+
+#define DIRECTIONS DIRECTIONS_1BPP_UNCOMP
+
+
+#define UP_RED UP_RED_1BPP_UNCOMP
+#define UP_WHITE UP_WHITE_1BPP_UNCOMP
+#define DOWN_RED DOWN_RED_1BPP_UNCOMP
+#define DOWN_WHITE DOWN_WHITE_1BPP_UNCOMP
+#define LEFT_RED LEFT_RED_1BPP_UNCOMP
+#define LEFT_WHITE LEFT_WHITE_1BPP_UNCOMP
+#define RIGHT_RED RIGHT_RED_1BPP_UNCOMP
+#define RIGHT_WHITE RIGHT_WHITE_1BPP_UNCOMP
+#define CORRECT_GREEN CORRECT_1BPP_UNCOMP
+#define WRONG_RED WRONG_1BPP_UNCOMP
+
+
+
+
+
+#endif /* IMAGES_DEFINITIONS_H_ */
