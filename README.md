@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/carlozamu/Fall_Detection_MSP432_and_ESP8266r">
-    <img src="images/ambulance-logo.png" alt="Logo" width="140" height="140">
+    <img src="images/ambulance.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">Fall Detection MSP432 and ESP8266</h3>
